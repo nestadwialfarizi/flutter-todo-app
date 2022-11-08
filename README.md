@@ -1,3 +1,4 @@
 # Flutter Todo App
 
-![Screenshot 2022-11-08 125019](https://user-images.githubusercontent.com/79734836/200485461-3a0eaa19-3664-423f-907b-cb85edc9acf5.png)
+
+![Todo App](https://user-images.githubusercontent.com/79734836/200564032-243967f6-246b-4aaa-b3e4-77e09bcd25c1.png)
